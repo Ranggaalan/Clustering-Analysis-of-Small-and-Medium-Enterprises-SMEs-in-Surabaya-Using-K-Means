@@ -1,0 +1,2 @@
+# Clustering-Analysis-of-Small-and-Medium-Enterprises-SMEs-in-Surabaya-Using-K-Means
+This project aims to segment Small and Medium Enterprises (SMEs) in Surabaya into two distinct clusters using the K-Means clustering algorithm. By analyzing various business characteristics, this segmentation provides insights into different SME profiles, which can aid policymakers, investors, and business owners in strategic decision-making.
